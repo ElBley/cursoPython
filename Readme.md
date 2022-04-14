@@ -1,4 +1,4 @@
-# Curso de git
+# Curso básico de Pyhton
 Este es el readme de el curso básico de python de UvigoMotorsport
 El temario es el siguente:
 Primera sesión:
